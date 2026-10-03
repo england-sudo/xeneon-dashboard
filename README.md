@@ -1,6 +1,6 @@
 # XeneonDash
 
-A chill system-stats dashboard for the Corsair Xeneon Edge 14.5" touchscreen
+A system-stats dashboard for the Corsair Xeneon Edge 14.5" touchscreen
 (2560×720), though it runs fullscreen on any Windows display. Dark theme,
 touch-friendly, no iCUE required. Stats come from
 [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor).
